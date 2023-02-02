@@ -1,5 +1,3 @@
-# Projetin
-
 import openai
 import requests
 import io
@@ -62,4 +60,3 @@ async def on_message(message):
             await message.channel.send(file = discord.File(image_file, 'image.png'))
 
 client.run("MTA2OTY0NzQ5MjU5MDg2NjU5Mw.GFkFFk.ZMN_4Adk4iDCN0QZ2pRECoZmU3nzzgpjMds6vQ")
-
