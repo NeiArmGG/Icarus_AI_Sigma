@@ -10,3 +10,11 @@ O projeto incluirá também a implementação de recursos adicionais, como jogos
 
 Em resumo, o Bot de Discord inteligente com AI é um projeto que visa melhorar a interação dos usuários com a plataforma, tornando a experiência mais agradável e eficiente. Com a combinação de tecnologia de AI e recursos adicionais, esse Bot será capaz de oferecer uma experiência única e inesquecível aos usuários do Discord.
 
+Nome da IA:      Icarus
+Nome do modelo:  Daslis
+                          D: DISCORD
+                          A: ASSISTENT
+                          S: SYCRONUS
+                          L: LOYALTY
+                          I: ICARUS
+                          S: SYSTEM
