@@ -56,7 +56,7 @@ async def on_message(message):
             image = Image.open(io.BytesIO(response.content))
             image_file = io.BytesIO()
             image.save(image_file, format='png')
-            image_file.seek(0)
+            image_file.seek(0) 
             await message.channel.send(file = discord.File(image_file, 'image.png'))
 
 client.run("MTA2OTY0NzQ5MjU5MDg2NjU5Mw.GFkFFk.ZMN_4Adk4iDCN0QZ2pRECoZmU3nzzgpjMds6vQ")
